@@ -81,4 +81,4 @@ Khi logic tính lương có khả năng thay đổi theo thời gian hoặc cầ
 
 ## Kết Luận
 
-Trong bài toán này, nếu dự án của bạn có tiềm năng mở rộng với nhiều thay đổi về cách tính lương và phụ cấp, **Strategy Pattern** thường là cách giải tốt nhất. Nó cho phép thay đổi chiến lược tính lương một cách độc lập mà không ảnh hưởng đến cấu trúc đối tượng `Employee`.
+Trong bài toán này, **Strategy Pattern** sẽ là cách giải tốt nhất. Nó cho phép thay đổi chiến lược tính lương một cách độc lập mà không ảnh hưởng đến cấu trúc đối tượng `Employee`.
